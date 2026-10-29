@@ -1,3 +1,8 @@
+🚀 **Live Demo:** https://wpl-auction-intelligence.streamlit.app/
+
+💻 **Source Code:** https://github.com/banavii/wpl-auction-intelligence
+
+
 # 🏏 WPL Auction Intelligence
 
 A data-driven cricket analytics application designed to support Women's Premier League (WPL) auction preparation through player performance analysis, role-based filtering, player comparisons, and Impact Index rankings.
