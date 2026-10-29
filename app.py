@@ -664,6 +664,9 @@ player_list_source = player_list_source.drop_duplicates(
 player_list = player_list_source[player_list_cols].copy()
 player_list = player_list.rename(columns=list_labels)
 
+# Remove Role from the displayed player table
+player_list = player_list.drop(columns=["Role"], errors="ignore")
+
 if "Base Price (Lakhs)" in player_list.columns:
     player_list["Base Price (Lakhs)"] = pd.to_numeric(
         player_list["Base Price (Lakhs)"],
@@ -674,6 +677,7 @@ st.caption(
     f"Showing {len(player_list):,} unique available players. "
     "Click a player's row in the table to open their detailed profile."
 )
+
 
 # Clicking a row in the table opens the profile. A new widget key clears selection.
 if "player_table_version" not in st.session_state:
@@ -801,9 +805,73 @@ if selected_compare_players:
     else:
         st.dataframe(compare_view, use_container_width=True, hide_index=True)
 else:
-    st.info("Choose at least two players above to display the comparison table.")
+    role_normalized = role_key(comparison_role or "")
 
+    if role_normalized in {"allrounder", "allrounders"}:
+        leaderboard = comparison_rows.copy()
 
+        leaderboard_candidates = {
+            "Player Name": [name_col],
+            "Matches Played": ["Matches_Played", "Matches Played"],
+            "Runs Scored": ["Runs_Scored", "Runs Scored", "Runs", "Total_Runs"],
+            "Boundary Percentage": ["Boundary_Percentage", "Boundary Percentage"],
+            "Strike Rate": ["Strike_Rate", "Strike Rate", "Batting_Strike_Rate", "SR"],
+            "Overs Bowled": ["Overs_Bowled", "Overs Bowled"],
+            "Wickets": ["Wickets", "Total_Wickets", "Wickets_Taken"],
+            "Economy": ["Bowling_Economy", "Bowling Economy", "Economy"],
+            "Base Price": [
+                "Base_Price_Lakhs", "Base Price Lakhs",
+                "Reserve_Price", "Reserve Price Rs Lakh",
+                "Reserve_Price_Lakhs"
+            ],
+            "Impact Index": ["All_Rounder_Rating"],
+        }
+
+        leaderboard_cols = {}
+        for label, candidates in leaderboard_candidates.items():
+            col = find_column(leaderboard.columns, candidates)
+            if col and col in leaderboard.columns:
+                leaderboard_cols[label] = col
+
+        if "Impact Index" in leaderboard_cols:
+            impact_col = leaderboard_cols["Impact Index"]
+
+            leaderboard = leaderboard.dropna(subset=[impact_col])
+            leaderboard = leaderboard.sort_values(
+                by=impact_col,
+                ascending=False,
+                na_position="last"
+            ).reset_index(drop=True)
+
+            leaderboard.insert(0, "Rank", range(1, len(leaderboard) + 1))
+
+            display_order = [
+                "Rank", "Player Name", "Matches Played", "Runs Scored",
+                "Boundary Percentage", "Strike Rate", "Overs Bowled",
+                "Wickets", "Economy", "Base Price", "Impact Index"
+            ]
+
+            display_table = leaderboard[["Rank"]].copy()
+
+            for label in display_order[1:]:
+                if label in leaderboard_cols:
+                    display_table[label] = leaderboard[leaderboard_cols[label]]
+
+            st.markdown("### 🏆 Best All-Rounders by Impact Index")
+            st.dataframe(
+                display_table,
+                use_container_width=True,
+                hide_index=True
+            )
+
+        else:
+            st.warning("Impact Index could not be calculated.")
+
+    else:
+        st.info(
+            "Choose at least two players above to display "
+            "the comparison table."
+        )
 
 selected_row_positions = player_table_event.selection.rows
 if selected_row_positions:
@@ -885,15 +953,18 @@ if selected_player_key is not None:
             )
 
             # Display player identity once.
+            
+# Display player identity once.
+            
             header_cols = available_columns(
-                player_records,
-                auction_number_candidates
-                + [name_col]
-                + base_price_candidates
-                + role_candidates_for_display
-                + auction_tail_candidates
-                + status_last_candidates
-            )
+    player_records,
+    auction_number_candidates
+    + [name_col]
+    + base_price_candidates
+    + auction_tail_candidates
+    + status_last_candidates
+)
+  
 
             if header_cols:
                 header_row = player_records.iloc[0]
