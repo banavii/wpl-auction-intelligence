@@ -13,6 +13,19 @@ WPL Auction Intelligence helps users explore player statistics, shortlist potent
 
 The project combines Python-based data processing with an interactive Streamlit dashboard to demonstrate how cricket statistics can be transformed into actionable insights for player scouting and auction analysis.
 
+
+## 📊 Dataset Transparency
+
+The application includes a sample dataset for demonstration and testing.
+
+- **2024:** Match data collected from individual scorecards for the 2024–25 Senior Women's T20 Trophy.
+- **2025:** Synthetic records generated to support application development and demonstrate the analytics workflow.
+- **Data processing:** Player records are organized into a structured dataset for filtering, comparison, and performance analysis.
+
+**Important:** 2024 records and Synthetic 2025 records are not verified historical player performances. The Impact Index and player rankings based on these records are demonstrations of the application's calculations, not validated assessments of actual player performance.
+
+For production use, the synthetic records should be replaced with verified match-level data, with appropriate checks for missing values, duplicate records, and player identity.
+
 ## ✨ Key Features
 
 - **Player Explorer:** Explore player records and filter players by role.

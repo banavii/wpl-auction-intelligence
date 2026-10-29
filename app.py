@@ -15,11 +15,25 @@ st.info(
     "The app validates the columns it finds; it does not invent missing statistics."
 )
 
+
 uploaded_file = st.file_uploader(
     "Upload your own WPL dataset (CSV) — optional",
     type=["csv"],
     accept_multiple_files=False,
 )
+
+using_sample_data = uploaded_file is None
+
+if using_sample_data:
+    uploaded_file = "sample_wpl_dataset.csv"
+
+    st.warning(
+        "DEMO DATASET: This application uses real scraped match data "
+        "for 2024 and synthetic demonstration records for 2025. "
+        "The synthetic records are not verified historical performances "
+        "and should not be used for real-world auction decisions."
+    )
+
 
 if uploaded_file is None:
     uploaded_file = "sample_wpl_dataset.csv"
