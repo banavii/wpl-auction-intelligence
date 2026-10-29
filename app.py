@@ -16,10 +16,17 @@ st.info(
 )
 
 uploaded_file = st.file_uploader(
-    "Upload your WPL dataset (CSV)",
+    "Upload your own WPL dataset (CSV) — optional",
     type=["csv"],
     accept_multiple_files=False,
 )
+
+if uploaded_file is None:
+    uploaded_file = "sample_wpl_dataset.csv"
+    st.info(
+        "Using the built-in sample dataset. "
+        "Upload your own CSV above to explore a different dataset."
+    )
 
 REQUIRED_ID_CANDIDATES = [
     "player_name", "player", "playername", "name", "Player_Name", "Player Name"

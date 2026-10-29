@@ -1,0 +1,291 @@
+Season,Player_Name,Role,Matches_Played,Runs_Scored,Balls_Faced,Fours,Sixes,Strike_Rate,Wickets,Overs_Bowled,Runs_Conceded,Bowling_Economy,Batting_Position,Bowling_Type,Bowling_Arm_Style,Nationality,Bowling_Specialism,Batting_Hand,Auction_List_No,Auction_Country,Auction_Role,Previous_WPL_Team,Previous_WPL_Matches,Capped_Status,Base_Price_Lakhs
+2024,Raghvi Bist,BATTER,9,233,233,28,8,100.0,0,0.0,0.0,0.0,3,,,India,,RHB,1,India,BATTER,None,,Capped,30
+2025,Raghvi Bist,BATTER,9,134,134,16,5,100.0,0,0.0,0.0,0.0,Opener,,,India,,RHB,1,India,BATTER,None,,Capped,30
+2024,Sophia Dunkley,BATTER,7,252,290,31,7,86.9,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Leg Spin,England,RIGHT ARM Leg Spin,RHB,2,England,BATTER,None,,Capped,50
+2025,Sophia Dunkley,BATTER,9,149,203,18,4,73.4,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Leg Spin,England,RIGHT ARM Leg Spin,RHB,2,England,BATTER,None,,Capped,50
+2024,Tejal Hasabnis,BATTER,10,92,108,10,2,85.19,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,3,India,BATTER,None,,Capped,30
+2025,Tejal Hasabnis,BATTER,10,169,204,18,4,82.84,0,0.0,0.0,0.0,4,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,3,India,BATTER,None,,Capped,30
+2024,G Kamalini,BATTER,8,126,108,14,3,116.67,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,LHB,4,India,BATTER,MI,5.0,Capped,40
+2025,G Kamalini,BATTER,9,174,132,19,5,131.82,0,0.0,0.0,0.0,4,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,LHB,4,India,BATTER,MI,5.0,Capped,40
+2024,Kiran Navgire,BATTER,10,239,297,29,6,80.47,0,0.0,0.0,0.0,4,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,5,India,BATTER,UPW,6.0,Capped,40
+2025,Kiran Navgire,BATTER,8,113,130,14,3,86.92,0,0.0,0.0,0.0,4,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,5,India,BATTER,UPW,6.0,Capped,40
+2024,Ayushi Soni,BATTER,9,112,144,12,2,77.78,0,0.0,0.0,0.0,3,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,6,India,BATTER,GG,1.0,Capped,30
+2025,Ayushi Soni,BATTER,10,48,88,5,1,54.55,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,6,India,BATTER,GG,1.0,Capped,30
+2024,Chamari Athapaththu,ALL-ROUNDER,8,248,306,31,7,81.05,4,11.2,66.0,5.82,6,Spin,RIGHT ARM Off Spin,Sri Lanka,RIGHT ARM Off Spin,LHB,7,Sri Lanka,ALL-ROUNDER,None,,Capped,30
+2025,Chamari Athapaththu,ALL-ROUNDER,9,57,106,7,1,53.77,6,13.5,85.0,6.14,6,Spin,RIGHT ARM Off Spin,Sri Lanka,RIGHT ARM Off Spin,LHB,7,Sri Lanka,ALL-ROUNDER,None,,Capped,30
+2024,Grace Harris,ALL-ROUNDER,8,99,153,12,2,64.71,6,13.0,84.0,6.46,6,Spin,RIGHT ARM Off Spin,Australia,RIGHT ARM Off Spin,RHB,8,Australia,ALL-ROUNDER,RCB,9.0,Capped,30
+2025,Grace Harris,ALL-ROUNDER,8,51,71,6,1,71.83,4,14.2,98.0,6.84,4,Spin,RIGHT ARM Off Spin,Australia,RIGHT ARM Off Spin,RHB,8,Australia,ALL-ROUNDER,RCB,9.0,Capped,30
+2024,Sophie Molineux,ALL-ROUNDER,8,103,146,12,2,70.55,5,11.4,84.0,7.2,6,Spin,LEFT ARM Slow Orthodox,Australia,LEFT ARM Slow Orthodox,LHB,9,Australia,ALL-ROUNDER,None,,Capped,50
+2025,Sophie Molineux,ALL-ROUNDER,6,267,325,33,7,82.15,5,9.4,73.0,7.55,4,Spin,LEFT ARM Slow Orthodox,Australia,LEFT ARM Slow Orthodox,LHB,9,Australia,ALL-ROUNDER,None,,Capped,50
+2024,Orla Prendergast,ALL-ROUNDER,10,277,305,34,7,90.82,6,16.4,132.0,7.92,4,Pace,RIGHT ARM Fast Medium,Ireland,RIGHT ARM Fast Medium,RHB,10,Ireland,ALL-ROUNDER,None,,Capped,30
+2025,Orla Prendergast,ALL-ROUNDER,10,264,318,33,7,83.02,7,17.0,99.0,5.82,4,Pace,RIGHT ARM Fast Medium,Ireland,RIGHT ARM Fast Medium,RHB,10,Ireland,ALL-ROUNDER,None,,Capped,30
+2024,Sneh Rana,ALL-ROUNDER,9,37,61,3,0,60.66,9,22.5,123.8,5.42,5,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,11,India,ALL-ROUNDER,DC,10.0,Capped,30
+2025,Sneh Rana,ALL-ROUNDER,6,44,66,4,0,66.67,5,12.5,68.8,5.36,4,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,11,India,ALL-ROUNDER,DC,10.0,Capped,30
+2024,Taniyaa Bhatia,WICKETKEEPER,9,114,153,14,3,74.51,0,0.0,0.0,0.0,2,,,India,,RHB,12,India,WICKETKEEPER,DC,0.0,Capped,30
+2025,Taniyaa Bhatia,WICKETKEEPER,5,137,152,17,3,90.13,0,0.0,0.0,0.0,Opener,,,India,,RHB,12,India,WICKETKEEPER,DC,0.0,Capped,30
+2024,Uma Chetry,WICKETKEEPER,7,292,323,36,8,90.4,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,13,India,WICKETKEEPER,None,,Capped,30
+2025,Uma Chetry,WICKETKEEPER,7,212,259,26,6,81.85,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,13,India,WICKETKEEPER,None,,Capped,30
+2024,Nuzhat Parween,WICKETKEEPER,6,87,87,10,3,100.0,0,0.0,0.0,0.0,Opener,,,India,,RHB,14,India,WICKETKEEPER,None,,Capped,30
+2025,Nuzhat Parween,WICKETKEEPER,8,121,121,15,4,100.0,0,0.0,0.0,0.0,4,,,India,,RHB,14,India,WICKETKEEPER,None,,Capped,30
+2024,Sushma Verma,WICKETKEEPER,5,144,144,17,5,100.0,0,0.0,0.0,0.0,4,,,India,,RHB,15,India,WICKETKEEPER,None,,Capped,30
+2025,Sushma Verma,WICKETKEEPER,9,243,243,29,9,100.0,0,0.0,0.0,0.0,Opener,,,India,,RHB,15,India,WICKETKEEPER,None,,Capped,30
+2024,Mithali Ayodya,BOWLER,7,0,0,0,0,0.0,5,12.2,104.0,8.43,9,Pace,RIGHT ARM Fast Medium,Sri Lanka,RIGHT ARM Fast Medium,RHB,16,Sri Lanka,BOWLER,None,,Capped,30
+2025,Mithali Ayodya,BOWLER,9,0,0,0,0,0.0,6,11.1,62.0,5.55,8,Pace,RIGHT ARM Fast Medium,Sri Lanka,RIGHT ARM Fast Medium,RHB,16,Sri Lanka,BOWLER,None,,Capped,30
+2024,Rosemary Mair,BOWLER,9,0,0,0,0,0.0,10,22.0,163.3,7.42,9,Pace,RIGHT ARM Fast Medium,New Zealand,RIGHT ARM Fast Medium,RHB,17,New Zealand,BOWLER,None,,Capped,30
+2025,Rosemary Mair,BOWLER,6,0,0,0,0,0.0,4,8.8,53.4,5.72,9,Pace,RIGHT ARM Fast Medium,New Zealand,RIGHT ARM Fast Medium,RHB,17,New Zealand,BOWLER,None,,Capped,30
+2024,Titas Sadhu,BOWLER,8,0,0,0,0,0.0,15,33.0,207.0,6.27,9,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,18,India,BOWLER,GG,0.0,Capped,30
+2025,Titas Sadhu,BOWLER,10,0,0,0,0,0.0,7,15.4,86.6,5.53,9,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,18,India,BOWLER,GG,0.0,Capped,30
+2024,Saima Thakor,BOWLER,7,0,0,0,0,0.0,15,33.0,183.9,5.57,9,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,19,India,BOWLER,None,,Capped,30
+2025,Saima Thakor,BOWLER,7,0,0,0,0,0.0,5,11.0,59.4,5.4,9,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,19,India,BOWLER,None,,Capped,30
+2024,Tayla Vlaeminck,BOWLER,9,0,0,0,0,0.0,5,12.3,71.0,5.68,8,Pace,RIGHT ARM Fast,Australia,RIGHT ARM Fast,RHB,20,Australia,BOWLER,None,,Capped,30
+2025,Tayla Vlaeminck,BOWLER,8,0,0,0,0,0.0,4,13.5,94.0,6.8,9,Pace,RIGHT ARM Fast,Australia,RIGHT ARM Fast,RHB,20,Australia,BOWLER,None,,Capped,30
+2024,Saika Ishaque,BOWLER,10,0,0,0,0,0.0,6,14.4,96.0,6.55,8,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,21,India,BOWLER,MI,1.0,Capped,30
+2025,Saika Ishaque,BOWLER,6,0,0,0,0,0.0,3,9.3,63.0,6.63,8,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,21,India,BOWLER,MI,1.0,Capped,30
+2024,Priya Mishra,BOWLER,10,0,0,0,0,0.0,3,6.6,37.5,5.36,9,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,22,India,BOWLER,None,,Capped,30
+2025,Priya Mishra,BOWLER,7,0,0,0,0,0.0,16,35.2,176.0,4.98,9,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,22,India,BOWLER,None,,Capped,30
+2024,Nonkululeko Mlaba,BOWLER,7,0,0,0,0,0.0,9,19.8,107.2,5.27,9,Spin,LEFT ARM Slow Orthodox,South Africa,LEFT ARM Slow Orthodox,RHB,23,South Africa,BOWLER,None,,Capped,30
+2025,Nonkululeko Mlaba,BOWLER,7,0,0,0,0,0.0,11,24.2,150.3,6.18,9,Spin,LEFT ARM Slow Orthodox,South Africa,LEFT ARM Slow Orthodox,RHB,23,South Africa,BOWLER,None,,Capped,30
+2024,Asha Sobhana,BOWLER,6,0,0,0,0,0.0,7,15.4,99.1,6.33,9,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,24,India,BOWLER,UPW,8.0,Capped,30
+2025,Asha Sobhana,BOWLER,5,0,0,0,0,0.0,8,17.6,123.1,6.84,9,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,24,India,BOWLER,UPW,8.0,Capped,30
+2024,Vrinda Dinesh,BATTER,5,255,295,30,3,86.44,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,25,India,BATTER,None,,Uncapped,10
+2025,Vrinda Dinesh,BATTER,5,316,221,41,5,142.99,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,25,India,BATTER,None,,Uncapped,10
+2024,Humairaa Kaazi,BATTER,6,240,200,35,4,120.0,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,26,India,BATTER,None,,Uncapped,10
+2025,Humairaa Kaazi,BATTER,6,320,244,50,5,131.15,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,26,India,BATTER,None,,Uncapped,10
+2024,Disha Kasat,BATTER,9,188,188,23,7,100.0,0,0.0,0.0,0.0,3,,,India,,RHB,27,India,BATTER,None,,Uncapped,10
+2025,Disha Kasat,BATTER,10,250,256,30,9,97.66,0,0.0,0.0,0.0,Opener,,,India,,RHB,27,India,BATTER,None,,Uncapped,10
+2024,Gautami Naik,BATTER,10,207,207,25,7,100.0,0,0.0,0.0,0.0,3,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,28,India,BATTER,RCB,6.0,Uncapped,10
+2025,Gautami Naik,BATTER,7,162,162,19,6,100.0,0,0.0,0.0,0.0,3,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,28,India,BATTER,RCB,6.0,Uncapped,10
+2024,Shweta Sehrawat,BATTER,9,155,203,17,3,76.35,0,0.0,0.0,0.0,4,,,India,,RHB,29,India,BATTER,UPW,7.0,Uncapped,10
+2025,Shweta Sehrawat,BATTER,5,163,183,18,4,89.07,0,0.0,0.0,0.0,3,,,India,,RHB,29,India,BATTER,UPW,7.0,Uncapped,10
+2024,Purvaja Verlekar,BATTER,7,129,146,14,3,88.36,0,0.0,0.0,0.0,3,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,30,India,BATTER,None,,Uncapped,10
+2025,Purvaja Verlekar,BATTER,8,200,232,22,5,86.21,0,0.0,0.0,0.0,3,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,30,India,BATTER,None,,Uncapped,10
+2024,Sujata Dey,ALL-ROUNDER,5,227,264,28,6,85.98,5,7.3,46.0,6.13,5,Pace,LEFT ARM Medium,India,LEFT ARM Medium,LHB,31,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Sujata Dey,ALL-ROUNDER,10,91,140,11,2,65.0,6,15.4,102.0,6.51,4,Pace,LEFT ARM Medium,India,LEFT ARM Medium,LHB,31,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Tess Flintoff,ALL-ROUNDER,6,161,177,20,4,90.96,4,10.2,71.0,6.87,4,Pace,RIGHT ARM Medium,Australia,RIGHT ARM Medium,RHB,32,Australia,ALL-ROUNDER,None,,Uncapped,10
+2025,Tess Flintoff,ALL-ROUNDER,5,97,123,12,2,78.86,5,10.3,76.0,7.24,5,Pace,RIGHT ARM Medium,Australia,RIGHT ARM Medium,RHB,32,Australia,ALL-ROUNDER,None,,Uncapped,10
+2024,Poonam Khemnar,ALL-ROUNDER,7,164,164,20,6,100.0,9,19.8,115.8,5.7,4,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,33,India,ALL-ROUNDER,MI,7.0,Uncapped,10
+2025,Poonam Khemnar,ALL-ROUNDER,7,126,126,15,4,100.0,5,11.0,75.0,6.82,5,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,33,India,ALL-ROUNDER,MI,7.0,Uncapped,10
+2024,Anandita Kishor,ALL-ROUNDER,10,159,206,17,3,77.18,9,19.8,152.5,7.5,6,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,34,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Anandita Kishor,ALL-ROUNDER,5,203,237,22,5,85.65,4,8.8,59.4,6.36,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,34,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Charli Knott,ALL-ROUNDER,5,142,174,17,4,81.61,3,7.5,59.0,7.53,6,Spin,RIGHT ARM Off Spin,Australia,RIGHT ARM Off Spin,RHB,35,Australia,ALL-ROUNDER,UPW,1.0,Uncapped,10
+2025,Charli Knott,ALL-ROUNDER,10,131,147,16,3,89.12,7,15.0,118.0,7.87,4,Spin,RIGHT ARM Off Spin,Australia,RIGHT ARM Off Spin,RHB,35,Australia,ALL-ROUNDER,UPW,1.0,Uncapped,10
+2024,Pragati Singh,ALL-ROUNDER,9,208,255,23,5,81.57,5,11.0,71.2,6.47,4,Pace,RIGHT ARM Medium,India,RIGHT ARM Medium,RHB,36,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Pragati Singh,ALL-ROUNDER,9,87,121,9,2,71.9,9,19.8,144.5,7.11,6,Pace,RIGHT ARM Medium,India,RIGHT ARM Medium,RHB,36,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Bhavika Ahire,WICKETKEEPER,5,167,214,18,4,78.04,0,0.0,0.0,0.0,2,,,India,,LHB,37,India,WICKETKEEPER,None,,Uncapped,10
+2025,Bhavika Ahire,WICKETKEEPER,10,197,219,21,4,89.95,0,0.0,0.0,0.0,Opener,,,India,,LHB,37,India,WICKETKEEPER,None,,Uncapped,10
+2024,Sarah Bryce,WICKETKEEPER,5,90,90,11,3,100.0,0,0.0,0.0,0.0,Opener,,,Scotland,,RHB,38,Scotland,WICKETKEEPER,None,,Associate,10
+2025,Sarah Bryce,WICKETKEEPER,7,96,96,12,3,100.0,0,0.0,0.0,0.0,3,,,Scotland,,RHB,38,Scotland,WICKETKEEPER,None,,Associate,10
+2024,Latika Inamdar,WICKETKEEPER,5,110,110,13,4,100.0,0,0.0,0.0,0.0,2,,,India,,LHB,39,India,WICKETKEEPER,None,,Uncapped,10
+2025,Latika Inamdar,WICKETKEEPER,9,213,213,26,7,100.0,0,0.0,0.0,0.0,3,,,India,,LHB,39,India,WICKETKEEPER,None,,Uncapped,10
+2024,Shivani Singh,WICKETKEEPER,5,74,78,9,3,94.87,0,0.0,0.0,0.0,3,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,40,India,WICKETKEEPER,GG,1.0,Uncapped,10
+2025,Shivani Singh,WICKETKEEPER,5,129,131,15,5,98.47,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,40,India,WICKETKEEPER,GG,1.0,Uncapped,10
+2024,Rima Ekka,BOWLER,5,0,0,0,0,0.0,2,8.2,53.0,6.36,8,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,41,India,BOWLER,None,,Uncapped,10
+2025,Rima Ekka,BOWLER,5,0,0,0,0,0.0,5,7.1,62.0,8.65,9,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,41,India,BOWLER,None,,Uncapped,10
+2024,Shraddha Pokharkar,BOWLER,10,0,0,0,0,0.0,12,26.4,193.4,7.25,9,Pace,LEFT ARM Medium,India,LEFT ARM Medium,RHB,42,India,BOWLER,None,,Uncapped,10
+2025,Shraddha Pokharkar,BOWLER,10,0,0,0,0,0.0,10,22.0,121.5,5.52,9,Pace,LEFT ARM Medium,India,LEFT ARM Medium,RHB,42,India,BOWLER,None,,Uncapped,10
+2024,Yashasri S,BOWLER,6,0,0,0,0,0.0,11,24.2,187.7,7.71,8,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,43,India,BOWLER,None,,Uncapped,20
+2025,Yashasri S,BOWLER,5,0,0,0,0,0.0,10,22.0,162.9,7.4,9,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,43,India,BOWLER,None,,Uncapped,20
+2024,Shabnam Shakil,BOWLER,9,0,0,0,0,0.0,12,26.4,185.4,6.95,9,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,44,India,BOWLER,None,,Uncapped,10
+2025,Shabnam Shakil,BOWLER,7,0,0,0,0,0.0,4,8.8,63.1,6.76,9,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,44,India,BOWLER,None,,Uncapped,10
+2024,Eddla Srujana,BOWLER,6,0,0,0,0,0.0,3,8.1,45.0,5.51,8,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,45,India,BOWLER,DC,0.0,Uncapped,10
+2025,Eddla Srujana,BOWLER,9,0,0,0,0,0.0,5,12.5,86.0,6.7,9,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,45,India,BOWLER,DC,0.0,Uncapped,10
+2024,Samantha Bates,BOWLER,10,0,0,0,0,0.0,9,15.4,121.0,7.72,9,Spin,LEFT ARM Slow Orthodox,Australia,LEFT ARM Slow Orthodox,RHB,46,Australia,BOWLER,None,,Uncapped,10
+2025,Samantha Bates,BOWLER,8,0,0,0,0,0.0,7,11.5,65.0,5.49,8,Spin,LEFT ARM Slow Orthodox,Australia,LEFT ARM Slow Orthodox,RHB,46,Australia,BOWLER,None,,Uncapped,10
+2024,Bharti Rawal,BOWLER,6,0,0,0,0,0.0,5,9.0,60.0,6.67,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,47,India,BOWLER,None,,Uncapped,10
+2025,Bharti Rawal,BOWLER,10,0,0,0,0,0.0,6,15.0,86.0,5.73,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,47,India,BOWLER,None,,Uncapped,10
+2024,Shanu Sen,BOWLER,10,0,0,0,0,0.0,8,14.1,119.0,8.4,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,48,India,BOWLER,None,,Uncapped,10
+2025,Shanu Sen,BOWLER,6,0,0,0,0,0.0,4,11.1,79.0,7.07,8,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,48,India,BOWLER,None,,Uncapped,10
+2024,Parunika Sisodia,BOWLER,6,0,0,0,0,0.0,3,11.2,61.0,5.38,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,49,India,BOWLER,None,,Uncapped,10
+2025,Parunika Sisodia,BOWLER,10,0,0,0,0,0.0,10,14.5,81.0,5.46,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,49,India,BOWLER,None,,Uncapped,10
+2024,Sonam Yadav,BOWLER,9,0,0,0,0,0.0,14,30.8,170.6,5.44,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,50,India,BOWLER,None,,Uncapped,10
+2025,Sonam Yadav,BOWLER,9,0,0,0,0,0.0,9,19.8,103.2,5.08,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,50,India,BOWLER,None,,Uncapped,10
+2024,Annerie Dercksen,ALL-ROUNDER,8,143,192,17,4,74.48,6,13.0,75.0,5.77,6,Pace,RIGHT ARM Fast,South Africa,RIGHT ARM Fast,RHB,51,South Africa,ALL-ROUNDER,None,,Capped,30
+2025,Annerie Dercksen,ALL-ROUNDER,8,193,220,24,5,87.73,4,14.2,88.0,6.14,6,Pace,RIGHT ARM Fast,South Africa,RIGHT ARM Fast,RHB,51,South Africa,ALL-ROUNDER,None,,Capped,30
+2024,Heather Graham,ALL-ROUNDER,6,207,240,25,5,86.25,4,8.2,54.0,6.48,6,Pace,RIGHT ARM Medium,Australia,RIGHT ARM Medium,RHB,52,Australia,ALL-ROUNDER,None,,Capped,40
+2025,Heather Graham,ALL-ROUNDER,5,169,202,21,4,83.66,5,8.3,58.0,6.82,6,Pace,RIGHT ARM Medium,Australia,RIGHT ARM Medium,RHB,52,Australia,ALL-ROUNDER,None,,Capped,40
+2024,Jess Jonassen,ALL-ROUNDER,6,104,108,12,4,96.3,7,15.4,84.1,5.37,4,Spin,LEFT ARM Slow Orthodox,Australia,LEFT ARM Slow Orthodox,LHB,53,Australia,ALL-ROUNDER,None,,Capped,40
+2025,Jess Jonassen,ALL-ROUNDER,10,267,267,32,9,100.0,9,19.8,120.2,5.91,4,Spin,LEFT ARM Slow Orthodox,Australia,LEFT ARM Slow Orthodox,LHB,53,Australia,ALL-ROUNDER,None,,Capped,40
+2024,Kayla Reyneke,ALL-ROUNDER,5,97,112,10,2,86.61,3,6.6,42.8,6.11,4,Spin,RIGHT ARM Off Spin,South Africa,RIGHT ARM Off Spin,RHB,54,South Africa,ALL-ROUNDER,None,,Capped,30
+2025,Kayla Reyneke,ALL-ROUNDER,10,87,126,9,2,69.05,9,19.8,155.8,7.66,4,Spin,RIGHT ARM Off Spin,South Africa,RIGHT ARM Off Spin,RHB,54,South Africa,ALL-ROUNDER,None,,Capped,30
+2024,Chloe Tryon,ALL-ROUNDER,9,255,255,31,9,100.0,9,19.8,131.5,6.47,6,Spin,LEFT ARM Slow Orthodox,South Africa,LEFT ARM Slow Orthodox,RHB,55,South Africa,ALL-ROUNDER,UPW,5.0,Capped,30
+2025,Chloe Tryon,ALL-ROUNDER,9,131,131,16,5,100.0,8,17.6,120.1,6.67,6,Spin,LEFT ARM Slow Orthodox,South Africa,LEFT ARM Slow Orthodox,RHB,55,South Africa,ALL-ROUNDER,UPW,5.0,Capped,30
+2024,Preeti Bose,BOWLER,6,0,0,0,0,0.0,4,11.4,95.0,8.14,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,56,India,BOWLER,None,,Capped,30
+2025,Preeti Bose,BOWLER,10,0,0,0,0,0.0,7,13.4,111.0,8.12,8,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,56,India,BOWLER,None,,Capped,30
+2024,Shuchi Upadhyay,BOWLER,9,0,0,0,0,0.0,5,12.5,86.0,6.7,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,57,India,BOWLER,None,,Capped,30
+2025,Shuchi Upadhyay,BOWLER,10,0,0,0,0,0.0,5,15.0,99.0,6.6,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,57,India,BOWLER,None,,Capped,30
+2024,Devika Vaidya,BOWLER,6,0,0,0,0,0.0,12,26.4,164.4,6.17,9,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,LHB,58,India,BOWLER,None,,Capped,30
+2025,Devika Vaidya,BOWLER,8,0,0,0,0,0.0,3,6.6,40.7,5.81,9,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,LHB,58,India,BOWLER,None,,Capped,30
+2024,Saanika Chalke,BATTER,6,84,84,10,3,100.0,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,LHB,59,India,BATTER,None,,Uncapped,10
+2025,Saanika Chalke,BATTER,8,154,154,18,5,100.0,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,LHB,59,India,BATTER,None,,Uncapped,10
+2024,Pranavi Chandra,BATTER,7,235,281,29,6,83.63,0,0.0,0.0,0.0,Opener,,,India,,RHB,60,India,BATTER,None,,Uncapped,10
+2025,Pranavi Chandra,BATTER,5,297,316,37,8,93.99,0,0.0,0.0,0.0,Opener,,,India,,RHB,60,India,BATTER,None,,Uncapped,10
+2024,Ira Jadhav,BATTER,6,167,213,18,4,78.4,0,0.0,0.0,0.0,3,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,61,India,BATTER,None,,Uncapped,10
+2025,Ira Jadhav,BATTER,6,202,249,22,5,81.12,0,0.0,0.0,0.0,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,61,India,BATTER,None,,Uncapped,10
+2024,Shraddha Nabira,BATTER,8,106,121,11,2,87.6,0,0.0,0.0,0.0,4,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,62,India,BATTER,None,,Uncapped,10
+2025,Shraddha Nabira,BATTER,7,83,126,9,2,65.87,0,0.0,0.0,0.0,3,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,62,India,BATTER,None,,Uncapped,10
+2024,Tanisha Ohlan,BATTER,5,70,70,8,2,100.0,0,0.0,0.0,0.0,4,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,63,India,BATTER,None,,Uncapped,20
+2025,Tanisha Ohlan,BATTER,6,139,139,17,5,100.0,0,0.0,0.0,0.0,4,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,63,India,BATTER,None,,Uncapped,20
+2024,Varnika Singh,BATTER,5,174,192,19,4,90.62,0,0.0,0.0,0.0,3,,,India,,LHB,64,India,BATTER,None,,Uncapped,10
+2025,Varnika Singh,BATTER,9,114,157,12,2,72.61,0,0.0,0.0,0.0,Opener,,,India,,LHB,64,India,BATTER,None,,Uncapped,10
+2024,Maitlan Brown,ALL-ROUNDER,5,203,227,22,5,89.43,6,13.2,99.0,7.42,6,Pace,RIGHT ARM Fast,Australia,RIGHT ARM Fast,RHB,65,Australia,ALL-ROUNDER,None,,Uncapped,10
+2025,Maitlan Brown,ALL-ROUNDER,7,216,265,24,5,81.51,5,11.0,74.2,6.75,6,Pace,RIGHT ARM Fast,Australia,RIGHT ARM Fast,RHB,65,Australia,ALL-ROUNDER,None,,Uncapped,10
+2024,Kathryn Bryce,ALL-ROUNDER,10,76,102,8,1,74.51,2,4.4,32.4,6.94,6,Pace,RIGHT ARM Medium,Scotland,RIGHT ARM Medium,RHB,66,Scotland,ALL-ROUNDER,None,,Associate,10
+2025,Kathryn Bryce,ALL-ROUNDER,5,138,182,15,3,75.82,2,4.4,31.1,6.66,4,Pace,RIGHT ARM Medium,Scotland,RIGHT ARM Medium,RHB,66,Scotland,ALL-ROUNDER,None,,Associate,10
+2024,Darcey Carter,ALL-ROUNDER,5,123,123,15,4,100.0,8,17.6,101.1,5.62,6,Spin,RIGHT ARM Off Spin,Scotland,RIGHT ARM Off Spin,RHB,67,Scotland,ALL-ROUNDER,None,,Associate,10
+2025,Darcey Carter,ALL-ROUNDER,7,107,107,13,4,100.0,3,6.6,33.9,4.84,5,Spin,RIGHT ARM Off Spin,Scotland,RIGHT ARM Off Spin,RHB,67,Scotland,ALL-ROUNDER,None,,Associate,10
+2024,Uma Kashvi,ALL-ROUNDER,7,125,148,15,3,84.46,4,11.1,80.0,7.16,4,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,68,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Uma Kashvi,ALL-ROUNDER,8,255,300,31,7,85.0,5,14.4,111.0,7.57,4,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,68,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Amandeep Kaur,ALL-ROUNDER,7,299,329,37,8,90.88,6,9.5,78.0,7.93,6,Spin,LEFT ARM Slow Unorthodox,India,LEFT ARM Slow Unorthodox,RHB,69,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Amandeep Kaur,ALL-ROUNDER,9,118,167,14,3,70.66,5,13.3,78.0,5.78,4,Spin,LEFT ARM Slow Unorthodox,India,LEFT ARM Slow Unorthodox,RHB,69,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Joshitha VJ,ALL-ROUNDER,8,167,167,20,6,100.0,13,28.6,158.2,5.46,5,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,70,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Joshitha VJ,ALL-ROUNDER,9,214,214,26,7,100.0,9,19.8,137.7,6.77,5,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,70,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Khushi Bhatia,WICKETKEEPER,9,91,144,11,2,63.19,0,0.0,0.0,0.0,3,,,India,,RHB,71,India,WICKETKEEPER,None,,Uncapped,10
+2025,Khushi Bhatia,WICKETKEEPER,10,272,291,34,7,93.47,0,0.0,0.0,0.0,3,,,India,,RHB,71,India,WICKETKEEPER,None,,Uncapped,10
+2024,Riya Chaudhari,WICKETKEEPER,9,114,146,12,2,78.08,0,0.0,0.0,0.0,3,,,India,,RHB,72,India,WICKETKEEPER,None,,Uncapped,10
+2025,Riya Chaudhari,WICKETKEEPER,8,184,205,20,4,89.76,0,0.0,0.0,0.0,3,,,India,,RHB,72,India,WICKETKEEPER,None,,Uncapped,10
+2024,Babette De Leede,WICKETKEEPER,6,44,87,4,1,50.57,0,0.0,0.0,0.0,3,,,Netherlands,,RHB,73,Netherland,WICKETKEEPER,None,,Associate,10
+2025,Babette De Leede,WICKETKEEPER,9,104,140,11,2,74.29,0,0.0,0.0,0.0,3,,,Netherlands,,RHB,73,Netherland,WICKETKEEPER,None,,Associate,10
+2024,Pragya Rawat,WICKETKEEPER,9,181,231,22,5,78.35,0,0.0,0.0,0.0,3,,,India,,RHB,74,India,WICKETKEEPER,None,,Uncapped,10
+2025,Pragya Rawat,WICKETKEEPER,10,208,241,26,5,86.31,0,0.0,0.0,0.0,3,,,India,,RHB,74,India,WICKETKEEPER,None,,Uncapped,10
+2024,Anshu Apurva,BOWLER,10,0,0,0,0,0.0,11,24.2,189.1,7.77,8,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,75,India,BOWLER,None,,Uncapped,10
+2025,Anshu Apurva,BOWLER,10,0,0,0,0,0.0,3,6.6,45.8,6.54,9,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,75,India,BOWLER,None,,Uncapped,10
+2024,Yashasvi Katta,BOWLER,8,0,0,0,0,0.0,7,11.4,92.0,7.89,8,Pace,LEFT ARM Fast,India,LEFT ARM Fast,LHB,76,India,BOWLER,None,,Uncapped,20
+2025,Yashasvi Katta,BOWLER,5,0,0,0,0,0.0,5,9.5,60.0,6.1,9,Pace,LEFT ARM Fast,India,LEFT ARM Fast,LHB,76,India,BOWLER,None,,Uncapped,20
+2024,Nandhana Sridharan,BOWLER,5,0,0,0,0,0.0,4,6.2,52.0,8.21,9,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,77,India,BOWLER,None,,Uncapped,10
+2025,Nandhana Sridharan,BOWLER,5,0,0,0,0,0.0,3,9.0,58.0,6.44,9,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,77,India,BOWLER,None,,Uncapped,10
+2024,Jyoti Thakur,BOWLER,9,0,0,0,0,0.0,7,15.4,120.9,7.72,8,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,78,India,BOWLER,None,,Uncapped,10
+2025,Jyoti Thakur,BOWLER,8,0,0,0,0,0.0,4,8.8,69.9,7.49,9,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,78,India,BOWLER,None,,Uncapped,10
+2024,Gargi Wankar,BOWLER,5,0,0,0,0,0.0,3,6.6,44.5,6.36,9,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,79,India,BOWLER,None,,Uncapped,10
+2025,Gargi Wankar,BOWLER,5,0,0,0,0,0.0,7,15.4,103.8,6.63,9,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,79,India,BOWLER,None,,Uncapped,10
+2024,Apeksha Anand,BOWLER,5,0,0,0,0,0.0,13,28.6,163.1,5.62,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,80,India,BOWLER,None,,Uncapped,10
+2025,Apeksha Anand,BOWLER,10,0,0,0,0,0.0,14,30.8,162.2,5.18,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,80,India,BOWLER,None,,Uncapped,10
+2024,Nikita Chauhan,BOWLER,6,0,0,0,0,0.0,6,8.2,70.0,8.4,9,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,81,India,BOWLER,None,,Uncapped,10
+2025,Nikita Chauhan,BOWLER,6,0,0,0,0,0.0,4,10.1,61.0,6.0,9,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,81,India,BOWLER,None,,Uncapped,10
+2024,Kirstie Gordon,BOWLER,5,0,0,0,0,0.0,4,7.2,41.0,5.59,8,Spin,LEFT ARM Slow Orthodox,Scotland,LEFT ARM Slow Orthodox,RHB,82,Scotland,BOWLER,None,,Associate,10
+2025,Kirstie Gordon,BOWLER,10,0,0,0,0,0.0,9,13.0,69.0,5.31,9,Spin,LEFT ARM Slow Orthodox,Scotland,LEFT ARM Slow Orthodox,RHB,82,Scotland,BOWLER,None,,Associate,10
+2024,Shreya Shrivas,BOWLER,9,0,0,0,0,0.0,8,13.4,94.0,6.88,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,83,India,BOWLER,None,,Uncapped,10
+2025,Shreya Shrivas,BOWLER,8,0,0,0,0,0.0,7,12.3,66.0,5.28,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,83,India,BOWLER,None,,Uncapped,10
+2024,Poonam Soni,BOWLER,7,0,0,0,0,0.0,7,10.1,82.0,8.07,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,84,India,BOWLER,None,,Uncapped,10
+2025,Poonam Soni,BOWLER,7,0,0,0,0,0.0,5,12.2,98.0,7.95,8,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,84,India,BOWLER,None,,Uncapped,10
+2024,Simran Bahadur,ALL-ROUNDER,10,156,156,19,5,100.0,4,8.8,56.1,6.01,6,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,LHB,85,India,ALL-ROUNDER,None,,Capped,30
+2025,Simran Bahadur,ALL-ROUNDER,9,237,237,28,8,100.0,9,19.8,119.4,5.87,5,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,LHB,85,India,ALL-ROUNDER,None,,Capped,30
+2024,Mona Meshram,ALL-ROUNDER,6,216,241,24,5,89.63,6,13.2,99.0,7.42,4,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,86,India,ALL-ROUNDER,None,,Capped,30
+2025,Mona Meshram,ALL-ROUNDER,5,125,166,13,3,75.3,2,4.4,33.8,7.24,4,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,86,India,ALL-ROUNDER,None,,Capped,30
+2024,Anjali Sarvani,ALL-ROUNDER,7,136,138,16,5,98.55,17,37.4,212.6,5.64,5,Pace,LEFT ARM Fast Medium,India,LEFT ARM Fast Medium,LHB,87,India,ALL-ROUNDER,None,,Capped,30
+2025,Anjali Sarvani,ALL-ROUNDER,10,278,278,33,10,100.0,14,30.8,216.6,6.91,5,Pace,LEFT ARM Fast Medium,India,LEFT ARM Fast Medium,LHB,87,India,ALL-ROUNDER,None,,Capped,30
+2024,Meghna Singh,ALL-ROUNDER,10,52,89,6,1,58.43,7,16.0,98.0,6.12,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,88,India,ALL-ROUNDER,None,,Capped,30
+2025,Meghna Singh,ALL-ROUNDER,9,102,153,12,2,66.67,7,15.1,99.0,6.53,6,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,88,India,ALL-ROUNDER,None,,Capped,30
+2024,Monika Devi,BATTER,7,184,219,20,4,84.02,0,0.0,0.0,0.0,4,,,India,,RHB,89,India,BATTER,None,,Uncapped,10
+2025,Monika Devi,BATTER,7,212,239,23,5,88.7,0,0.0,0.0,0.0,3,,,India,,RHB,89,India,BATTER,None,,Uncapped,10
+2024,Divya Ganesh,BATTER,6,131,176,14,3,74.43,0,0.0,0.0,0.0,4,,,India,,RHB,90,India,BATTER,None,,Uncapped,10
+2025,Divya Ganesh,BATTER,6,201,218,22,5,92.2,0,0.0,0.0,0.0,4,,,India,,RHB,90,India,BATTER,None,,Uncapped,10
+2024,Bhavana Goplani,BATTER,9,251,251,30,9,100.0,0,0.0,0.0,0.0,4,,,India,,RHB,91,India,BATTER,None,,Uncapped,10
+2025,Bhavana Goplani,BATTER,5,123,123,15,4,100.0,0,0.0,0.0,0.0,Opener,,,India,,RHB,91,India,BATTER,None,,Uncapped,10
+2024,Harsimran Kaur,BATTER,9,134,162,16,3,82.72,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,92,India,BATTER,None,,Uncapped,10
+2025,Harsimran Kaur,BATTER,6,124,177,15,3,70.06,0,0.0,0.0,0.0,3,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,92,India,BATTER,None,,Uncapped,10
+2024,Ayesha Shaikh,BATTER,8,275,327,34,7,84.1,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,93,India,BATTER,None,,Uncapped,10
+2025,Ayesha Shaikh,BATTER,6,147,179,18,4,82.12,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,93,India,BATTER,None,,Uncapped,10
+2024,Inchara Umesh,BATTER,7,145,145,17,5,100.0,0,0.0,0.0,0.0,Opener,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,94,India,BATTER,None,,Uncapped,10
+2025,Inchara Umesh,BATTER,8,187,187,22,7,100.0,0,0.0,0.0,0.0,3,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,94,India,BATTER,None,,Uncapped,10
+2024,Nazma Khan,ALL-ROUNDER,8,69,100,7,1,69.0,6,13.2,100.2,7.51,6,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,95,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Nazma Khan,ALL-ROUNDER,6,184,208,20,4,88.46,2,4.4,28.7,6.15,5,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,95,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Vidhi Parmar,ALL-ROUNDER,6,101,101,12,4,100.0,8,17.6,109.7,6.09,6,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,96,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Vidhi Parmar,ALL-ROUNDER,9,119,119,14,4,100.0,16,35.2,231.7,6.56,5,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,96,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Deeksha Sharma,ALL-ROUNDER,7,160,197,20,4,81.22,4,9.1,63.0,6.87,5,Pace,RIGHT ARM Medium,India,RIGHT ARM Medium,RHB,97,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Deeksha Sharma,ALL-ROUNDER,7,167,197,20,4,84.77,5,10.3,76.0,7.24,6,Pace,RIGHT ARM Medium,India,RIGHT ARM Medium,RHB,97,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Shivi Sharma,ALL-ROUNDER,8,161,161,19,6,100.0,10,22.0,132.6,6.03,4,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,98,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Shivi Sharma,ALL-ROUNDER,7,158,158,19,6,100.0,13,28.6,190.7,6.58,6,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,98,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Kanishka Thakur,ALL-ROUNDER,6,100,133,12,2,75.19,5,10.4,81.0,7.59,4,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,LHB,99,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Kanishka Thakur,ALL-ROUNDER,9,54,86,6,1,62.79,5,15.3,122.0,7.87,5,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,LHB,99,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Gongadi Trisha,ALL-ROUNDER,9,71,106,8,2,66.98,6,12.5,74.0,5.77,6,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,100,India,ALL-ROUNDER,UPW,0.0,Uncapped,10
+2025,Gongadi Trisha,ALL-ROUNDER,10,50,69,6,1,72.46,8,15.2,94.0,6.13,4,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,100,India,ALL-ROUNDER,UPW,0.0,Uncapped,10
+2024,Sandhya Chhetri,BOWLER,6,0,0,0,0,0.0,16,35.2,208.1,5.89,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,101,India,BOWLER,None,,Uncapped,10
+2025,Sandhya Chhetri,BOWLER,10,0,0,0,0,0.0,12,26.4,177.6,6.66,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,101,India,BOWLER,None,,Uncapped,10
+2024,Ramyashri KN,BOWLER,5,0,0,0,0,0.0,2,6.5,38.0,5.56,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,102,India,BOWLER,None,,Uncapped,10
+2025,Ramyashri KN,BOWLER,10,0,0,0,0,0.0,5,13.4,73.0,5.34,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,102,India,BOWLER,None,,Uncapped,10
+2024,Chandni Sharma,BOWLER,5,0,0,0,0,0.0,4,8.2,67.0,8.04,8,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,103,India,BOWLER,None,,Uncapped,10
+2025,Chandni Sharma,BOWLER,9,0,0,0,0,0.0,9,12.0,100.0,8.33,9,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,103,India,BOWLER,None,,Uncapped,10
+2024,Sumiti Soni,BOWLER,10,0,0,0,0,0.0,16,35.2,230.4,6.52,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,104,India,BOWLER,None,,Uncapped,10
+2025,Sumiti Soni,BOWLER,10,0,0,0,0,0.0,10,22.0,149.6,6.8,9,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,104,India,BOWLER,None,,Uncapped,10
+2024,Akshita Bhagat,ALL-ROUNDER,7,105,126,13,3,83.33,4,11.1,73.0,6.54,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,105,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Akshita Bhagat,ALL-ROUNDER,7,160,197,20,4,81.22,5,12.3,86.0,6.88,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,105,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Esha Oza,ALL-ROUNDER,8,207,207,25,7,100.0,15,33.0,236.5,7.17,5,Spin,RIGHT ARM Off Spin,UAE,RIGHT ARM Off Spin,RHB,106,UAE,ALL-ROUNDER,None,,Associate,10
+2025,Esha Oza,ALL-ROUNDER,10,126,126,15,4,100.0,5,11.0,65.9,5.99,4,Spin,RIGHT ARM Off Spin,UAE,RIGHT ARM Off Spin,RHB,106,UAE,ALL-ROUNDER,None,,Associate,10
+2024,Maddie Penna,ALL-ROUNDER,9,77,101,9,2,76.24,7,12.1,88.0,7.23,4,Spin,RIGHT ARM Leg Spin,Australia,RIGHT ARM Leg Spin,RHB,107,Australia,ALL-ROUNDER,None,,Uncapped,10
+2025,Maddie Penna,ALL-ROUNDER,5,66,119,8,1,55.46,3,8.5,67.0,7.58,4,Spin,RIGHT ARM Leg Spin,Australia,RIGHT ARM Leg Spin,RHB,107,Australia,ALL-ROUNDER,None,,Uncapped,10
+2024,Aayushi Shukla,ALL-ROUNDER,10,93,132,11,2,70.45,7,16.0,126.0,7.88,4,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,108,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Aayushi Shukla,ALL-ROUNDER,5,62,96,7,1,64.58,5,10.3,61.0,5.81,6,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,108,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Anaadi Tagde,ALL-ROUNDER,6,165,165,20,6,100.0,5,11.0,72.8,6.62,6,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,109,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Anaadi Tagde,ALL-ROUNDER,6,114,116,14,4,98.28,17,37.4,241.6,6.41,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,109,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Triveni Vashistha,ALL-ROUNDER,5,122,142,13,3,85.92,5,11.0,80.2,7.29,5,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,110,India,ALL-ROUNDER,MI,4.0,Uncapped,20
+2025,Triveni Vashistha,ALL-ROUNDER,6,98,118,10,2,83.05,6,13.2,103.8,7.78,4,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,110,India,ALL-ROUNDER,MI,4.0,Uncapped,20
+2024,Manali Dakshini,ALL-ROUNDER,9,247,267,30,7,92.51,5,12.3,77.0,6.16,5,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,111,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Manali Dakshini,ALL-ROUNDER,8,143,168,17,4,85.12,5,12.4,82.0,6.47,5,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,111,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Roshini Kiran,ALL-ROUNDER,10,144,182,18,4,79.12,8,16.2,112.0,6.86,5,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,112,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Roshini Kiran,ALL-ROUNDER,5,296,313,37,8,94.57,3,10.5,78.0,7.2,5,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,112,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Palnati Rishika Krishnan,ALL-ROUNDER,9,118,118,14,4,100.0,6,13.2,98.9,7.42,5,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,113,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Palnati Rishika Krishnan,ALL-ROUNDER,10,219,219,26,8,100.0,4,8.8,56.7,6.08,5,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,113,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Henrietta Pereira,ALL-ROUNDER,10,167,211,20,4,79.15,7,14.0,106.0,7.57,6,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,114,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Henrietta Pereira,ALL-ROUNDER,10,228,244,28,6,93.44,8,15.2,121.0,7.89,4,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,114,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Tanisha Singh,ALL-ROUNDER,6,143,143,17,5,100.0,5,11.0,78.1,7.1,6,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,115,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Tanisha Singh,ALL-ROUNDER,9,126,126,15,4,100.0,8,17.6,130.6,7.26,5,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,115,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Sonal Thakur,ALL-ROUNDER,8,59,85,6,1,69.41,2,4.4,31.8,6.81,5,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,116,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Sonal Thakur,ALL-ROUNDER,10,76,101,8,1,75.25,5,11.0,73.1,6.65,5,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,116,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Keerthana Balakrishnan,ALL-ROUNDER,10,188,188,23,7,100.0,4,8.8,54.0,5.79,5,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,117,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Keerthana Balakrishnan,ALL-ROUNDER,9,194,207,23,7,93.72,9,19.8,126.2,6.21,4,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,117,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Kira Chathli,ALL-ROUNDER,6,133,148,16,3,89.86,3,10.0,58.0,5.8,6,,,England,,RHB,118,England,ALL-ROUNDER,None,,Uncapped,10
+2025,Kira Chathli,ALL-ROUNDER,9,122,153,15,3,79.74,6,15.5,97.0,6.13,5,,,England,,RHB,118,England,ALL-ROUNDER,None,,Uncapped,10
+2024,Salonee Dangore,ALL-ROUNDER,10,296,345,37,8,85.8,8,14.2,93.0,6.49,4,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,119,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Salonee Dangore,ALL-ROUNDER,10,144,163,18,4,88.34,6,15.4,107.0,6.83,5,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,119,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Arya Gohane,ALL-ROUNDER,8,217,245,24,5,88.57,6,13.2,98.5,7.39,6,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,120,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Arya Gohane,ALL-ROUNDER,5,201,227,22,5,88.55,4,8.8,54.0,5.79,5,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,120,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Milly Illingworth,ALL-ROUNDER,10,99,142,11,2,69.72,9,19.8,151.6,7.46,6,Pace,RIGHT ARM Fast,Australia,RIGHT ARM Fast,RHB,121,Australia,ALL-ROUNDER,MI,0.0,Uncapped,10
+2025,Milly Illingworth,ALL-ROUNDER,9,53,97,5,1,54.64,4,8.8,55.7,5.97,6,Pace,RIGHT ARM Fast,Australia,RIGHT ARM Fast,RHB,121,Australia,ALL-ROUNDER,MI,0.0,Uncapped,10
+2024,Nalla Reddy,ALL-ROUNDER,7,117,157,13,2,74.52,5,11.0,73.0,6.64,6,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,122,India,ALL-ROUNDER,MI,1.0,Uncapped,10
+2025,Nalla Reddy,ALL-ROUNDER,6,128,160,14,3,80.0,9,19.8,136.7,6.72,4,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,122,India,ALL-ROUNDER,MI,1.0,Uncapped,10
+2024,Suman Meena,ALL-ROUNDER,7,164,211,18,4,77.73,8,17.6,121.0,6.72,5,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,123,India,ALL-ROUNDER,UPW,0.0,Uncapped,10
+2025,Suman Meena,ALL-ROUNDER,5,192,223,21,4,86.1,2,4.4,29.8,6.39,5,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,123,India,ALL-ROUNDER,UPW,0.0,Uncapped,10
+2024,Sonia Mendhiya,ALL-ROUNDER,9,203,203,24,7,100.0,10,22.0,122.6,5.57,6,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,124,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Sonia Mendhiya,ALL-ROUNDER,7,171,171,21,6,100.0,8,17.6,129.4,7.19,5,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,124,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Anshu Nagar,ALL-ROUNDER,6,170,170,20,6,100.0,6,13.2,92.2,6.92,6,Pace,LEFT ARM Fast,India,LEFT ARM Fast,LHB,125,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Anshu Nagar,ALL-ROUNDER,9,212,212,25,7,100.0,3,6.6,41.8,5.97,4,Pace,LEFT ARM Fast,India,LEFT ARM Fast,LHB,125,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Dnyaneshwari Patil,ALL-ROUNDER,8,196,243,21,4,80.66,6,13.2,99.8,7.48,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,126,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Dnyaneshwari Patil,ALL-ROUNDER,5,125,141,13,3,88.65,11,24.2,169.1,6.95,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,126,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Sahana Pawar,ALL-ROUNDER,10,77,104,8,1,74.04,5,11.0,76.1,6.92,4,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,127,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Sahana Pawar,ALL-ROUNDER,8,54,97,6,1,55.67,9,19.8,124.7,6.13,4,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,127,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Karri Poojitha,ALL-ROUNDER,8,222,238,27,6,93.28,5,13.4,98.0,7.17,6,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,128,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Karri Poojitha,ALL-ROUNDER,7,144,194,18,4,74.23,6,12.5,97.0,7.56,5,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,128,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Kaku Barman,ALL-ROUNDER,7,156,168,19,5,92.86,13,28.6,167.7,5.78,5,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,129,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Kaku Barman,ALL-ROUNDER,7,203,203,24,7,100.0,16,35.2,255.9,7.24,5,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,129,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Bidisha Dey,ALL-ROUNDER,6,159,170,19,6,93.53,16,35.2,230.1,6.51,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,130,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Bidisha Dey,ALL-ROUNDER,6,146,146,18,5,100.0,15,33.0,176.5,5.35,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,130,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Shishira Gowda,ALL-ROUNDER,5,160,214,20,4,74.77,3,7.5,62.0,7.91,6,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,LHB,131,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Shishira Gowda,ALL-ROUNDER,8,220,246,27,6,89.43,5,12.4,73.0,5.76,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,LHB,131,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Dimple Kanwar,ALL-ROUNDER,8,182,233,22,5,78.11,6,13.0,80.0,6.15,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,132,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Dimple Kanwar,ALL-ROUNDER,6,290,332,36,8,87.35,3,11.0,72.0,6.55,5,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,132,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Sonali Singh,ALL-ROUNDER,5,60,60,7,2,100.0,8,17.6,91.4,5.08,5,Pace,RIGHT ARM Medium,India,RIGHT ARM Medium,RHB,133,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Sonali Singh,ALL-ROUNDER,10,175,175,21,6,100.0,10,22.0,156.2,7.1,5,Pace,RIGHT ARM Medium,India,RIGHT ARM Medium,RHB,133,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Mithila Vinod,ALL-ROUNDER,5,95,146,11,2,65.07,4,7.1,49.0,6.84,6,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,134,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Mithila Vinod,ALL-ROUNDER,9,139,189,17,3,73.54,7,13.1,95.0,7.22,5,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,134,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Fatima Jaffer,ALL-ROUNDER,5,50,104,6,1,48.08,3,9.5,74.0,7.53,4,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,135,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Fatima Jaffer,ALL-ROUNDER,9,224,247,28,6,90.69,6,15.5,125.0,7.89,5,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,135,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Karnika Karthick,ALL-ROUNDER,6,219,259,24,5,84.56,10,22.0,137.0,6.23,5,Pace,RIGHT ARM Medium,India,RIGHT ARM Medium,RHB,136,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Karnika Karthick,ALL-ROUNDER,8,64,104,7,1,61.54,7,15.4,103.1,6.58,4,Pace,RIGHT ARM Medium,India,RIGHT ARM Medium,RHB,136,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Ishita Khale,ALL-ROUNDER,6,140,171,17,4,81.87,5,8.4,50.0,5.77,5,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,137,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Ishita Khale,ALL-ROUNDER,7,236,294,29,6,80.27,4,10.1,63.0,6.2,6,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,137,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Neetu Singh,ALL-ROUNDER,10,201,240,25,5,83.75,7,16.0,104.0,6.5,4,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,139,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Neetu Singh,ALL-ROUNDER,8,247,285,30,7,86.67,6,14.0,96.0,6.86,6,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,139,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Soumya Singh,ALL-ROUNDER,9,112,169,14,3,66.27,5,12.3,90.0,7.2,4,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,140,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Soumya Singh,ALL-ROUNDER,10,203,245,25,5,82.86,7,15.0,113.0,7.53,5,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,RHB,140,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Jazmine Gill,ALL-ROUNDER,5,248,279,31,7,88.89,5,9.3,75.0,7.89,4,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,141,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Jazmine Gill,ALL-ROUNDER,8,154,188,19,4,81.91,4,14.2,83.0,5.79,6,Spin,LEFT ARM Slow Orthodox,India,LEFT ARM Slow Orthodox,LHB,141,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Bharati Singh,ALL-ROUNDER,8,178,178,21,6,100.0,17,37.4,280.2,7.44,6,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,142,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Bharati Singh,ALL-ROUNDER,5,123,123,15,4,100.0,9,19.8,128.5,6.32,4,Spin,RIGHT ARM Leg Spin,India,RIGHT ARM Leg Spin,RHB,142,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Kalpana Singh,ALL-ROUNDER,7,172,205,21,4,83.9,5,9.3,58.0,6.11,4,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,143,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Kalpana Singh,ALL-ROUNDER,10,81,125,10,2,64.8,8,15.2,100.0,6.52,6,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,143,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Palak Singh,ALL-ROUNDER,9,270,314,33,7,85.99,5,14.3,99.0,6.83,4,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,144,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Palak Singh,ALL-ROUNDER,7,67,82,8,1,81.71,5,12.3,90.0,7.2,6,Pace,RIGHT ARM Fast,India,RIGHT ARM Fast,RHB,144,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Rekha Singh,ALL-ROUNDER,6,152,196,16,3,77.55,7,15.4,116.0,7.4,6,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,145,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Rekha Singh,ALL-ROUNDER,8,168,190,18,4,88.42,8,17.6,138.9,7.72,5,Pace,RIGHT ARM Fast Medium,India,RIGHT ARM Fast Medium,RHB,145,India,ALL-ROUNDER,None,,Uncapped,10
+2024,Nisha Verma,ALL-ROUNDER,6,112,112,13,4,100.0,5,11.0,72.7,6.61,6,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,146,India,ALL-ROUNDER,None,,Uncapped,10
+2025,Nisha Verma,ALL-ROUNDER,8,131,131,16,5,100.0,3,6.6,33.4,4.77,6,Spin,RIGHT ARM Off Spin,India,RIGHT ARM Off Spin,RHB,146,India,ALL-ROUNDER,None,,Uncapped,10
